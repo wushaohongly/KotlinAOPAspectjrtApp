@@ -1,0 +1,2 @@
+rootProject.name='KotlinAOPAspectjrtApp'
+include ':app'
