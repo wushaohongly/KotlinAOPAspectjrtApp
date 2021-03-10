@@ -42,8 +42,8 @@ dependencies {
     implementation 'org.aspectj:aspectjrt:1.9.5'
 }
 
-// 配置 aspectjx
-aspectjx {
-    enabled true
-    exclude 'com.google','com.taobao'
-}
+//// 配置 aspectjx
+//aspectjx {
+//    enabled true
+//    exclude 'com.google','com.taobao'
+//}
