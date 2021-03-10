@@ -19,3 +19,6 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+-keep class com.wushaohong.kotlinaopaspectjrtapp.click.CheckPoint{*;}
+-keep class com.wushaohong.kotlinaopaspectjrtapp.permissions.PermissionsCheck{*;}
